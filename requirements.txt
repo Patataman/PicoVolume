@@ -1,0 +1,6 @@
+comtypes==1.1.10
+enum34==1.1.10
+future==0.18.2
+psutil==5.8.0
+pynput==1.7.3
+six==1.16.0
