@@ -3,9 +3,9 @@
 Add multimedia buttons to your keyboard!
 
 ![GitHub](https://img.shields.io/github/license/patataman/picovolume?style=flat-square)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/patataman/picovolume?style=flat-square)
-![python version](https://img.shields.io/badge/python-%3E%3D%203.9-brightgreen)
-![SO](https://img.shields.io/badge/SO-windows-blue)
+![GitHub tag](http://img.shields.io/github/v/tag/patataman/picovolume?style=flat-square)
+![python version](https://img.shields.io/badge/python-%3E%3D%203.9-brightgreen?style=flat-square)
+![SO](https://img.shields.io/badge/SO-windows-blue?style=flat-square)
 
 ## Systems
 
