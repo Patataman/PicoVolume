@@ -7,6 +7,8 @@ Add multimedia buttons to your keyboard!
 ![python version](https://img.shields.io/badge/python-%3E%3D%203.9-brightgreen?style=flat-square)
 ![SO](https://img.shields.io/badge/SO-windows-blue?style=flat-square)
 
+[pico-volume icon](icon.ico)
+
 ## Systems
 
 - Windows
